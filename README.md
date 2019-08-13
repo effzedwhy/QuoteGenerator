@@ -1,2 +1,2 @@
 # QuoteGenerator
-# QuoteGenerator
+
