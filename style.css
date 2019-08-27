@@ -9,30 +9,33 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 80px;
   justify-content: space-around;
 }
 #quote-box {
   display: table;
   width: 720px;
-  height: 200px;
+  height: 100%;
   background-color: white;
   align-items: center;
   border-radius: 10px;
   border: 7px solid #b3e5fc;
-  margin-top: 150px;
-
+  margin-top: 100px;
+  
 }
 @media screen and (max-width: 980px) {
 
-#quote-box {width: 75%;}
+#quote-box {
+  width: 75%;
+height: 100%;
+}
 
 }
 
 #quote-box-top {
   padding: 40px;
   text-align: center;
-  height: 150px;
+  height: 100%;
 
 }
 
