@@ -35,7 +35,7 @@ height: 100%;
 #quote-box-top {
   padding: 40px;
   text-align: center;
-  height: 100%;
+  height: inherit;
 
 }
 
